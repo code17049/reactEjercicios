@@ -11,6 +11,7 @@ Git
 https://git-scm.com
 
 INSTALACIONES RECOMENDADAS sobre React y React Native
+
 https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
 https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
