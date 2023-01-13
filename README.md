@@ -1,5 +1,5 @@
 # React Ejercicios
-Crear un Hola mundo en React [Usando type Script y configurando bootstrap]
+Crear un Hola mundo en React [Usando Typescript y configurando Bootstrap]
 
 INSTALACIONES
 <br>
