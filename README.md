@@ -29,7 +29,7 @@ https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter
 TEMAS NECESARIOS<br>
 Typescript, Node, Bootstrap, React, Git
 
-Links de recursos<br>
+LINK DE RECURSOS<br>
 https://create-react-app.dev/docs/getting-started/
 <br>
 https://getbootstrap.com
