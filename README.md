@@ -2,11 +2,13 @@
 Crear un Hola mundo en React [Usando type Script y configurando bootstrap]
 
 INSTALACIONES
+<br>
 Visual Studio Code
 https://code.visualstudio.com
+<br>
 Node
 https://nodejs.org/en/
-
+<br>
 Git
 https://git-scm.com
 
