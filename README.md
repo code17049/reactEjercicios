@@ -11,21 +11,27 @@ https://nodejs.org/en/
 <br>
 Git
 https://git-scm.com
-
+<br>
 INSTALACIONES RECOMENDADAS sobre React y React Native
-
+<br>
 https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+<br>
 https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
+<br>
 https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+<br>
 https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype
+<br>
 https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter
+<br>
 
 
-TEMAS NECESARIOS
+TEMAS NECESARIOS<br>
 Typescript, Node, Bootstrap, React, Git
 
-Links de recursos
+Links de recursos<br>
 https://create-react-app.dev/docs/getting-started/
+<br>
 https://getbootstrap.com
 
 
